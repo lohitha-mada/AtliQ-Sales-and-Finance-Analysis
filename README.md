@@ -6,7 +6,7 @@
 
 2. Conduct a comprehensive comparison between [market performance](https://github.com/lohitha-mada/AtliQ-Sales-and-Finance-Analysis/blob/main/Market%20Performance%20Report.pdf)
 
-Purpose of sales analytics: Empower businesses to track and access their sales activities and performance.
+* Purpose of sales analytics: Empower businesses to track and access their sales activities and performance.
 
 Importance of analyzing sales data: Determine trends in sales and monitor key performance metrics (KPIs).
 
