@@ -4,7 +4,7 @@
 
 1. Create a [customer performance report](https://github.com/lohitha-mada/AtliQ-Sales-and-Finance-Analysis/blob/main/Customer%20Net%20Sales%20Performance%20Report.pdf)
 
-2. Conduct a comprehensive comparison between [market performance](https://github.com/lohitha-mada/AtliQ-Sales-and-Finance-Analysis/blob/main/Market%20Performance%20Report.pdf)
+2. Conduct a comprehensive comparison between [market performance and sales targets](https://github.com/lohitha-mada/AtliQ-Sales-and-Finance-Analysis/blob/main/Market%20Performance%20Report.pdf)
 
 * Purpose of sales analytics: Empower businesses to track and access their sales activities and performance.
 
